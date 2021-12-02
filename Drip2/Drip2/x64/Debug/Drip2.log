@@ -1,8 +1,0 @@
-﻿  Drip2.cpp
-C:\Users\Windows\Documents\AV Exclusion Folder\Drip2\Drip2\Drip2.cpp(55,62): warning C4312: 'type cast': conversion from 'unsigned int' to 'void *' of greater size
-C:\Users\Windows\Documents\AV Exclusion Folder\Drip2\Drip2\Drip2.cpp(128,20): warning C4244: 'initializing': conversion from 'SIZE_T' to 'DWORD', possible loss of data
-C:\Users\Windows\Documents\AV Exclusion Folder\Drip2\Drip2\Drip2.cpp(129,19): warning C4244: 'initializing': conversion from 'SIZE_T' to 'DWORD', possible loss of data
-C:\Users\Windows\Documents\AV Exclusion Folder\Drip2\Drip2\Drip2.cpp(201,26): warning C4244: 'initializing': conversion from 'SIZE_T' to 'DWORD', possible loss of data
-C:\Users\Windows\Documents\AV Exclusion Folder\Drip2\Drip2\Drip2.cpp(224,25): warning C4244: '+=': conversion from 'SIZE_T' to 'DWORD', possible loss of data
-C:\Users\Windows\Documents\AV Exclusion Folder\Drip2\Drip2\Drip2.cpp(191,21): warning C4101: 'oldProt': unreferenced local variable
-  Drip2.vcxproj -> C:\Users\Windows\Documents\AV Exclusion Folder\Drip2\x64\Debug\Drip2.exe
